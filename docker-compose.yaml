@@ -1,6 +1,11 @@
 services:
-  api:
-    build: .
+  csmt:
+    build: ./cmd/csmt-api
     ports:
       - "1323:1323"
+    restart: unless-stopped
+  funny:
+    build: ./cmd/funny-api
+    ports:
+      - "2287:2287"
     restart: unless-stopped
