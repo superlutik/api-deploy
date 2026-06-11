@@ -1,0 +1,6 @@
+github.com/cyrillemad/csmt v0.0.4 h1:AsyhKHIRkNUi6lIzzaaZs9otXiD38yFNP5WM8k9Vs/A=
+github.com/cyrillemad/csmt v0.0.4/go.mod h1:r2W/P3gpbe/OwyabI8g89NJmqh1rQvUMsAXOeAXyPVc=
+github.com/labstack/echo/v5 v5.1.1 h1:4QkvKoS8ps5ch49t8b72QS9Z581ytgxhTzxuB/CBA2I=
+github.com/labstack/echo/v5 v5.1.1/go.mod h1:SyvlSdObGjRXeQfCCXW/sybkZdOOQZBmpKF0bvALaeo=
+golang.org/x/time v0.15.0 h1:bbrp8t3bGUeFOx08pvsMYRTCVSMk89u4tKbNOZbp88U=
+golang.org/x/time v0.15.0/go.mod h1:Y4YMaQmXwGQZoFaVFk4YpCt4FLQMYKZe9oeV/f4MSno=
